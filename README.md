@@ -16,4 +16,4 @@
 [facebook]: https://www.facebook.com/tonisuwen
 [twitter]: https://www.twitter.com/tonisuwen
 [instagram]: https://www.instagram.com/tonisuwen
-[linkedin]: https://www.linkedin.com/tonisuwendi
+[linkedin]: https://www.linkedin.com/in/tonisuwendi
