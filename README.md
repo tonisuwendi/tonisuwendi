@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Toni Suwendi 👋
+
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning ReactJS and React Native
+- 📫 How to reach me: tonisuwen@gmail.com
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=tonisuwendi&show_icons=true)
 
