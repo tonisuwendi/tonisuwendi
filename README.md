@@ -1,7 +1,7 @@
 ### Hi there, I'm Toni Suwendi 👋
 
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ReactJS and React Native
+- 🌱 I’m currently learning Swift and iOS Development
 - 📫 How to reach me: tonisuwen@gmail.com
 
 
