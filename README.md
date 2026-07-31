@@ -70,5 +70,5 @@ I'm a **Fullstack Developer** passionate about building fast, scalable, and main
 <a href="https://tonsu.my.id"><img src="https://img.shields.io/badge/Website-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tonisuwendi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/tonisuwen"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tonisuwen"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/tonsu.id"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
